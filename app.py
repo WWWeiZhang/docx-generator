@@ -1,4 +1,4 @@
-import app as st
+import streamlit as st
 import os
 from tempfile import TemporaryDirectory
 from pathlib import Path
